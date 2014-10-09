@@ -1,0 +1,27 @@
+{
+  "name": "easyBase64",
+  "version": "0.0.0",
+  "description": "Image to Base64 text.",
+  "bin": "bin/easyBase64",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js --i=./test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/katapad/easyBase64.git"
+  },
+  "author": {
+    "name": "katapad",
+    "url": "http://unko.me"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/katapad/easyBase64/issues"
+  },
+  "homepage": "https://github.com/katapad/easyBase64",
+  "devDependencies": {
+    "optimist": "^0.6.1",
+    "glob": "^4.0.6"
+  }
+}
