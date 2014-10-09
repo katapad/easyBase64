@@ -1,8 +1,8 @@
 #!/usr/bin/env node
 
-process.bin = process.title = 'easeBase64';
+process.bin = process.title = 'easebase64';
 
-easeBase64 = require('../lib/easeBase64');
+easeBase64 = require('../lib/easebase64');
 
 easeBase64.convert();
 
