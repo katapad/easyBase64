@@ -1,6 +1,6 @@
 {
-  "name": "easyBase64",
-  "version": "0.0.0",
+  "name": "easybase64",
+  "version": "0.0.1",
   "description": "Image to Base64 text.",
   "bin": "bin/easyBase64",
   "main": "index.js",
