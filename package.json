@@ -20,8 +20,9 @@
     "url": "https://github.com/katapad/easyBase64/issues"
   },
   "homepage": "https://github.com/katapad/easyBase64",
-  "devDependencies": {
+  "dependencies": {
     "optimist": "^0.6.1",
-    "glob": "^4.0.6"
+    "glob": "^4.0.6",
+    "async": "^0.9.0"
   }
 }
