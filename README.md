@@ -45,7 +45,11 @@ output file target
 
 `--o output.json`
 
+### --exts {String} [optional] 
 
+glob ext pattern.
+
+default `'png,jpg,jpeg,gif'`
 
 
 # Test
